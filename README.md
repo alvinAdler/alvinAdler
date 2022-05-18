@@ -6,7 +6,7 @@ Front end Web Developer
 
 I have been diving into front end web technologies for the last 2 years (especially React.js) and managed to get myself into several web development projects.
 
-* 🌍  I'm based in Cikarang, Indonesia
+* 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [alvinadler82@gmail.com](mailto:alvinadler82@gmail.com)
 * 🧠  I'm learning React.js
 
