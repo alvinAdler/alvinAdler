@@ -45,8 +45,5 @@ I have been diving into front end web technologies for the last 2 years (especia
   <a href="https://github.com/alvinAdler/SimpleTimelinePost" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinAdler&repo=SimpleTimelinePost&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/alvinAdler/TouchTypingApplication" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinAdler&repo=TouchTypingApplication&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
