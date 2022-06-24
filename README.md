@@ -4,7 +4,7 @@ Hi 👋 My name is Alvin Adler
 Front end Web Developer
 -----------------------
 
-I have been diving into front end web technologies for the last 2 years (especially React.js) and managed to get myself into several web development projects.
+Just an ordinary person who writes codes.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [alvinadler82@gmail.com](mailto:alvinadler82@gmail.com)
